@@ -1,0 +1,21 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "restaurants.js",
+  "scripts": {
+    "test": "india"
+  },
+  "keywords": [
+    "1234"
+  ],
+  "author": "Krishnaprasad",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "multer": "^1.4.1",
+    "mysql": "^2.17.1"
+  }
+}
